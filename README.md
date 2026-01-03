@@ -63,7 +63,7 @@ lib/
 
 ## 👤 Autores
 
-- Tu nombre aquí
+- AngieB26
 
 ## 📄 Licencia
 
